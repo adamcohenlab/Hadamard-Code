@@ -1,5 +1,5 @@
 # Hadamard-Code
-Code for Hadamard Microscopy for neural imaging.
+MATLAB code for Hadamard Microscopy for neural imaging.
 
 # Supplementary Software and Data
 Included in this repository are MATLAB programs and experimental datasets to describe implementation of all-optical neurophysiology functional recordings using Hadamard optical sectioning microscopy. 
