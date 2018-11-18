@@ -1,0 +1,2 @@
+Horizontal pixel:_____________	42
+Vertical pixel:_______________	42
