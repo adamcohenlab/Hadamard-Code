@@ -2,7 +2,7 @@
 Code for Hadamard Microscopy for neural imaging.
 
 # Supplementary Software and Data
-Included in this supplement are MATLAB programs and experimental datasets to describe implementation of all-optical neurophysiology functional recordings using Hadamard optical sectioning microscopy. A reduced dataset is provided in this repository with the example code. The example also runs with the original full dataset, which is available from the authors upon request.
+Included in this supplement are MATLAB programs and experimental datasets to describe implementation of all-optical neurophysiology functional recordings using Hadamard optical sectioning microscopy. 
 
 Examples were tested on MATLAB R2017a in a Windows 7 computer with a 2.5 GHz CPU and 64GB RAM.	
 Requirements: MATLAB R2014b or later; MATLAB Image Processing Toolbox; “Multipage TIFF stack”, available from https://www.mathworks.com/matlabcentral/fileexchange/35684.	
